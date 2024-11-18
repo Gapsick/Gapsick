@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Seongsi Kim</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seongsik Github!&fontSize=90" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gapsick&label=Profile%20views&color=0e75b6&style=flat" alt="gapsick" /> </p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapsick&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=gapsick&show_icons=true">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
