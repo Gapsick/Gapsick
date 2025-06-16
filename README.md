@@ -20,16 +20,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<!-- 📊 GitHub 활동 Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gapsick&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gapsick&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gapsick&theme=github_dark" />
-</p>
-
 <!-- 📫 Contact (선택 사항) -->
 <p align="center">
   <a href="mailto:gapsicke@gmail.com">
