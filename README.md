@@ -5,8 +5,9 @@
 
 <!-- 🌐 3D GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://gh-profile3d.vercel.app/api/users/Gapsick" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
+
 
 <!-- 🛠️ Tech Stack Badges -->
 <h3 align="center">💻 Tech Stack</h3>
