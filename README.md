@@ -1,7 +1,10 @@
-<!-- 🔥 입체감 있는 헤더 with Typing -->
+<!-- ✨ 감성적인 손글씨 스타일 헤더 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4E9AF1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Seong+Sik+Kim!;Aspiring+Developer+in+South+Korea.;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&pause=1000&color=4E5FFFAC&center=true&width=435&lines=Hi+there%2C+I'm+KIM+SEONG+SIK" alt="Typing SVG" />
+  </a>
 </div>
+
 
 <br/>
 
